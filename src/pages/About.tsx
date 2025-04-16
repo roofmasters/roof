@@ -124,9 +124,7 @@ const About = () => {
           </div>
         </section>
 
-    
-          </div>
-        </section>
+      
 
         <CallToAction 
           title="Ready to Work With Edmonton's Best Roofers?"
