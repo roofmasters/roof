@@ -20,19 +20,19 @@ const About = () => {
         {/* Our Story Section */}
         <section className="py-16">
           <div className="container mx-auto px-6">
-            <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-              <div>
+            <div className="flex flex-col items-center justify-center">
+               <div className="max-w-4xl text-center">
                 <SectionHeading 
                   title="Our Story"
                   subtitle="Dedicated to excellence in roofing since 2008"
                 />
-                <p className="text-gray-600 mb-6">
+                <p className="text-gray-600 mb-6 text-cetner">
                   Roof Masters was founded in 2008 with a simple mission: to provide Edmonton and surrounding areas with exceptional roofing services delivered with integrity, quality, and professionalism.
                 </p>
-                <p className="text-gray-600 mb-6">
+                <p className="text-gray-600 mb-6 text-cetner">
                   What started as a small team of dedicated roofers has grown into one of Edmonton's most trusted roofing companies, serving thousands of residential and commercial clients throughout Alberta.
                 </p>
-                <p className="text-gray-600">
+                <p className="text-gray-600 text-cetner">
                   Our passion for quality craftmanship, attention to detail, and commitment to customer satisfaction has earned us a reputation as Edmonton's premier roofing company.
                 </p>
               </div>
