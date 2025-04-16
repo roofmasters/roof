@@ -124,7 +124,7 @@ const About = () => {
           </div>
         </section>
 
-        {/* Our Team Section */}
+     /*    {/* Our Team Section */}
         <section className="py-16">
           <div className="container mx-auto px-6">
             <SectionHeading 
@@ -178,7 +178,7 @@ const About = () => {
                   </p>
                 </div>
               </div>
-            </div>
+            </div>*/
           </div>
         </section>
 
